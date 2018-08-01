@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { Container, Header, Title, Content, Footer, FooterTab, Button, Left, Right, Body, Icon, Text, Accordion, DatePicker, Form, Item, Input, H1, H2, H3,} from 'native-base';
-
+import { Container, Header, Title, Content, Footer, FooterTab, Button, Left, Right, Body, Icon, Text, Accordion, DatePicker, Form, Item, Input, H1, H2, H3,} from 'native-base'
 class Login extends Component {
   render() {
     return (
